@@ -35,7 +35,6 @@ ArtisanVerse is a hackathon blog website that serves as a content platform for s
 1. Clone the repository:
    ```bash
    git clone https://github.com/Ajaydheenadhayalan/ArtisanVerse-Blog.git
-   cd "Blog Website"
    ```
 
 2. Install dependencies:
